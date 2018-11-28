@@ -1,0 +1,15 @@
+{
+  "name": "07_basic_node_js_starter",
+  "version": "1.0.0",
+  "description": "Basic Node JS Appplication",
+  "main": "(index.js) app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
